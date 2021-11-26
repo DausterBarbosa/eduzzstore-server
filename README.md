@@ -17,7 +17,7 @@ $ yarn start
 ```
 ### Observações
 Antes de rodar o projeto trate de configurar as variáveis de ambiente.<br/>
-Crie um arquivo <strong>.env</strong> na raiz do projeto com o conteúdo abaixo e insira a porta e a URL do banco de dados no local indicado, qualquer dúvida consulte o arquivo <strong>.env.example</strong> que mostra como deve ser o formato do arquivo.
+Crie um arquivo <strong>.env</strong> na raiz do projeto com o conteúdo abaixo e insira a porta e a URL do banco de dados nos locais indicados, qualquer dúvida consulte o arquivo <strong>.env.example</strong> que mostra como deve ser o formato do arquivo.
 
 ```
 # Porta da aplicação
